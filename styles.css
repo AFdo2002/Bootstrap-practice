@@ -1,0 +1,31 @@
+/* styles.css */
+
+.custom-container .border {
+    border: 6px solid #754ef9 !important; /* Adjust the color code for the desired border color */
+    border-radius: 20px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.custom-container .bg {
+    background-color: white; /* Adjust the color code for the desired background color */
+}
+
+.custom-container .btn{
+    background-color: aqua;
+    border: 5px solid #754ef9;
+    color: black;
+    border-radius: 15px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.custom-container i{
+    font-size: 6.5rem;
+}
